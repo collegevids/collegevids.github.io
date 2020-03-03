@@ -6,9 +6,7 @@ categories: jekyll update
 permalink: /premium/
 ---
 
-<div>
-<a onclick="setUtmSource(event, this)" href="http://www.pornhub.com?utm_source=domain&utm_medium=banner-paid&utm_campaign=hubtraffic_mrselfxddd" id="rt_aff_banner_512" border="0" target="_blank"><img alt="Free porn videos" border="0" src="https://www.hubtraffic.com/_affiliate/banners/1543860001.png"/></a>
-</div>
+
 
 <span>
 ![premium](/img/limited.png){:class="img-responsive"}
@@ -28,8 +26,6 @@ permalink: /premium/
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/pt_BR/i/scr/pixel.gif" width="1" height="1">
 </form>
-<div>
-<a onclick="setUtmSource(event, this)" href="http://www.pornhub.com?utm_source=domain&utm_medium=banner-paid&utm_campaign=hubtraffic_mrselfxddd" id="rt_aff_banner_512" border="0" target="_blank"><img alt="Free porn videos" border="0" src="https://www.hubtraffic.com/_affiliate/banners/1543860001.png"/></a>
-</div>
+
 
 <span><a onclick="setUtmSource(event, this)" href="http://www.pornhub.com/video/search?search=femdom&utm_source=domain&utm_medium=banner-paid&utm_campaign=hubtraffic_mrselfxddd" id="rt_aff_banner_550" border="0" target="_blank"><img alt="Free porn videos" border="0" src="https://www.hubtraffic.com/_affiliate/banners/1544217303.png"/></a></span>
