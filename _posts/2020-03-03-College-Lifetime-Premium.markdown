@@ -23,5 +23,5 @@ permalink: /premium/
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/pt_BR/i/scr/pixel.gif" width="1" height="1">
 </form>
-<span><button> <meta name="hubtraffic-domain-validation"  content="51ca745253ce5072" /></button>
+<span><button> <meta name="hubtraffic-domain-validation"  content="51ca745253ce5072" />clicque</button>
 </span>
